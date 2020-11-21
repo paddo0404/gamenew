@@ -55,7 +55,7 @@
     <artifactId>sonar-java-plugin</artifactId>
     <version>5.9.1.16423</version>
     <scope>provided</scope>
-</dependency>
+	  </dependency>
 	  <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 <dependency>
     <groupId>mysql</groupId>
