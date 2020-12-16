@@ -7,7 +7,7 @@
   <groupId>caramelit</groupId>
   <artifactId>app</artifactId>
   <version>3.0</version>
-  <packaging>war</packaging>
+ <!-- <packaging>war</packaging> -->
 
   <name>app Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
